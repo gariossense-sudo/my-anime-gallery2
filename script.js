@@ -18,9 +18,9 @@ const galleryData = [
   {
     category: "waifu",
     name: "Tokisaki Kurumi",
-    age: "17 tahun",
-    image: "images/waifu/kurumi.jpg",
-    note: "Tuliskan catatan tentang foto ini."
+    age: "18 tahun",
+    image: "images/waifu/₊˚ 🌹࿔ Kurumi Tokisaki.jpeg",
+    note: "Nightmare"
   },
   {
     category: "waifu",
