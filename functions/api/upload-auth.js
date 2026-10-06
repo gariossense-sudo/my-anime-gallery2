@@ -1,6 +1,6 @@
 export async function onRequestGet(context) {
-  const privateKey = context.env.IMAGEKIT_PRIVATE_KEY;
-  const publicKey = context.env.IMAGEKIT_PUBLIC_KEY;
+  const privateKey = context.env.private_rx4Q1vVX7D96n3F3OxwSP+FEJLo=;
+  const publicKey = context.env.public_RJZJ2GxMj0hxx+927eVCodOl+Bk=;
 
   if (!privateKey || !publicKey) {
     return Response.json(
